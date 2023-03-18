@@ -7,3 +7,8 @@ Here I am adding Blog , Repo and  YouTube Video   links
 https://youtu.be/VqOVb76IyI4
 
 ```
+# Add CI/CD to Project using Netlify
+
+```
+https://youtu.be/qoSBeYGyluQ
+```
