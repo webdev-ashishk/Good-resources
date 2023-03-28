@@ -27,3 +27,13 @@ https://youtu.be/qoSBeYGyluQ
 ```
 https://youtu.be/z9pzu8sGfhE
 ```
+# Neovim Setup for Front-end development
+
+First Video
+```
+https://www.youtube.com/watch?v=stqUbv-5u2s&t=2s
+```
+Second Video
+```
+https://youtu.be/Hg8dhwsddlM
+```
