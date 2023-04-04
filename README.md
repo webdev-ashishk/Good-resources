@@ -60,3 +60,6 @@ https://youtu.be/Hg8dhwsddlM
       @media (min-width: 87em) {
       }
 ```
+# How to write code like Pro
+* https://google.github.io/styleguide/jsguide.html
+* https://youtu.be/RhgMT4UeRzo?list=PLzvhQUIpvvuiSdc_Hspcr4RlrIPbd8Q58
