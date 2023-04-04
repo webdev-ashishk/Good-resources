@@ -63,3 +63,50 @@ https://youtu.be/Hg8dhwsddlM
 # How to write code like Pro
 * https://google.github.io/styleguide/jsguide.html
 * https://youtu.be/RhgMT4UeRzo?list=PLzvhQUIpvvuiSdc_Hspcr4RlrIPbd8Q58
+
+
+
+1. Meaning-Full variable Name
+2. Use 'Const' Keywords as much as Possible
+3. Use 'Const' for immutable values Because of this Your code is less error
+4. Use Arrow Functions(solve problem of This keyword error or issue)
+5. Use Promise and async instead of callbacks 
+6. Always use Error Handling
+7. Always use Template literal's
+8. Always use Indentation 
+9. Always use Linters
+10. Always use === instead of ==
+11. Always use object destructuring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
