@@ -48,7 +48,7 @@ https://youtu.be/Hg8dhwsddlM
 
 ```
  /* all mobile device */
-      @media (max-width: 30em) {
+      @media (max-width: 42em) {
       }
       /* all table device */
       @media (min-width: 43em) {
