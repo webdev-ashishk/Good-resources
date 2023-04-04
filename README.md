@@ -44,3 +44,6 @@ https://youtu.be/Hg8dhwsddlM
 
 # What media query breakpoints should you use?
 * https://coder-coder.com/media-query-breakpoints/
+![media-query](https://user-images.githubusercontent.com/127021921/229667558-583da250-efbb-499e-9bfa-e673c1802391.png)
+
+
