@@ -46,4 +46,17 @@ https://youtu.be/Hg8dhwsddlM
 * https://coder-coder.com/media-query-breakpoints/
 ![media-query](https://user-images.githubusercontent.com/127021921/229667558-583da250-efbb-499e-9bfa-e673c1802391.png)
 
-
+```
+ /* all mobile device */
+      @media (max-width: 30em) {
+      }
+      /* all table device */
+      @media (min-width: 43em) {
+      }
+      /* small screen laptops */
+      @media (min-width: 62em) {
+      }
+      /* large screen size computer */
+      @media (min-width: 87em) {
+      }
+```
