@@ -78,9 +78,8 @@ https://youtu.be/Hg8dhwsddlM
 10. Always use === instead of ==
 11. Always use object destructuring
 
-
-
-
+# javascript beginner Level Project(by free-code-camp)
+* https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 
 
 
