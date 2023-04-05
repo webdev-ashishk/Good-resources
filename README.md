@@ -81,7 +81,12 @@ https://youtu.be/Hg8dhwsddlM
 # javascript beginner Level Project(by free-code-camp)
 * https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 
-
+---
+# Lear Javascript in Hindi channel's Name
+* Code's Gyan: 
+* learn code with durgesh
+* Technical Thapa
+* code with harry
 
 
 
