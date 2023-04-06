@@ -92,7 +92,9 @@ https://youtu.be/Hg8dhwsddlM
 * code with harry
 
 
-
+---
+# Free Fake Rest API
+* https://jsonplaceholder.typicode.com/
 
 
 
