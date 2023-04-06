@@ -97,7 +97,9 @@ https://youtu.be/Hg8dhwsddlM
 * https://jsonplaceholder.typicode.com/
 
 
-
+---
+# The Fetch API Cheatsheet: Nine of the Most Common API Requests
+* https://www.freecodecamp.org/news/fetch-api-cheatsheet/
 
 
 
