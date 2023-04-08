@@ -101,7 +101,9 @@ https://youtu.be/Hg8dhwsddlM
 # The Fetch API Cheatsheet: Nine of the Most Common API Requests
 * https://www.freecodecamp.org/news/fetch-api-cheatsheet/
 
-
+---
+# How to install tar.gz file's on linux
+* https://youtu.be/Gb08J92kHh4
 
 
 
