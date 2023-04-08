@@ -111,7 +111,15 @@ cd Downloads
 sudo alien -d "filename.tar.gz"
 ```
 
-
+---
+# Delete file's on linux
+```
+rm <fileName>
+```
+* if Not deleted
+```
+rm -i <fileName>
+```
 
 
 
