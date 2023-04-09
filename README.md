@@ -121,6 +121,40 @@ rm <fileName>
 rm -i <fileName>
 ```
 
+---
+# free weather api
+* https://goweather.herokuapp.com/weather/ny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
