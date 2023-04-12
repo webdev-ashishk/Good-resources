@@ -129,7 +129,11 @@ rm -i <fileName>
 ---
 # Learn How to Talk to AI
 * https://learnprompting.org/docs/intro
-
+---
+# Set default terminal in Ubuntu
+```
+sudo update-alternatives --config x-terminal-emulator
+```
 
 
 
