@@ -126,7 +126,9 @@ rm -i <fileName>
 * https://goweather.herokuapp.com/weather/ny
 
 
-
+---
+# Learn How to Talk to AI
+* https://learnprompting.org/docs/intro
 
 
 
