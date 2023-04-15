@@ -146,6 +146,9 @@ https://youtu.be/Hg8dhwsddlM
 ```
 sudo update-alternatives --config x-terminal-emulator
 ```
+---
+# javaScript beginner Level Project by chatGPT
+![javascriptProject](https://user-images.githubusercontent.com/127021921/232187403-def1497c-add3-41dc-af6a-0391a99f828f.png)
 
 
 
