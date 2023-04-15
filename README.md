@@ -63,6 +63,35 @@ https://youtu.be/Hg8dhwsddlM
       }
 ```
 ---
+* Write by chatGPT
+```
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  /* Add styles here for extra small devices */
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  /* Add styles here for small devices */
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  /* Add styles here for medium devices */
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  /* Add styles here for large devices */
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  /* Add styles here for extra large devices */
+}
+```
+---
+---
 # How to write code like Pro
 * https://google.github.io/styleguide/jsguide.html
 * https://youtu.be/RhgMT4UeRzo?list=PLzvhQUIpvvuiSdc_Hspcr4RlrIPbd8Q58
