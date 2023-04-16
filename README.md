@@ -50,7 +50,7 @@ https://youtu.be/Hg8dhwsddlM
 
 ```
  /* all mobile device */
-      @media (max-width: 42em) {
+      @media (max-width: 43em) {
       }
       /* all table device */
       @media (min-width: 43em) {
