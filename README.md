@@ -151,8 +151,10 @@ sudo update-alternatives --config x-terminal-emulator
 ![javascriptProject](https://user-images.githubusercontent.com/127021921/232187403-def1497c-add3-41dc-af6a-0391a99f828f.png)
 
 
-
-
+---
+# Cheatsheet for SASS(SCSS)
+* https://levelup.gitconnected.com/the-useful-sass-features-in-a-nutshell-sass-cheatsheet-c5767340d43b
+---
 
 
 
