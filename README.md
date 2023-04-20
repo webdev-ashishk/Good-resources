@@ -152,7 +152,7 @@ sudo update-alternatives --config x-terminal-emulator
 
 
 ---
-# Cheatsheet for SASS(SCSS)
+# Cheatsheet of SASS(SCSS)
 * https://levelup.gitconnected.com/the-useful-sass-features-in-a-nutshell-sass-cheatsheet-c5767340d43b
 ---
 
