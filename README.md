@@ -159,14 +159,15 @@ sudo update-alternatives --config x-terminal-emulator
 # Quick start React Basics by Durgesh
 #### title: 🔥 🔥 Complete React Js with Project tutorial in hindi 🔥 🔥 + Backend Spring boot
 * https://youtu.be/TjnWtDWFZFc
-
+---
 
 # Learn chatGPT by traversy media
 * https://youtu.be/o_joulYVndM
 
+---
 
-
-
+# Vite Crash Course || Faster Alternative CRA
+* https://youtu.be/89NJdbYTgJ8
 
 
 
