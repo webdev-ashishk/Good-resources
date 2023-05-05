@@ -171,7 +171,10 @@ sudo update-alternatives --config x-terminal-emulator
 
 
 
+---
 
+# High Paying Technologies I Am Learning In 2023
+* https://youtu.be/9CE80cBEcu0
 
 
 
