@@ -196,9 +196,12 @@ sudo snap install docker
 - [x] Install Docker Desktop Application
 
 
+---
 
+# Learning React 
+* https://www.youtube.com/playlist?list=PLp18NAIKHWnvpLpioGs6ZAiMlpfx49KOz
 
-
+![channels4_profile](https://github.com/webdev-ashishk/Good-resources/assets/127021921/59d5d248-4cdd-467c-b415-c5cdac267f36)
 
 
 
